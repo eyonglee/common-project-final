@@ -131,7 +131,7 @@ figcaption, span, ol {
 }
 
 .gallery {
-    background: url(/images/bones.jpg);
+    background: url('/images/bones.jpg');
     display: grid;
     grid-template-columns: 1fr;
 }
